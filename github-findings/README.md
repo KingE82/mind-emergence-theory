@@ -24,9 +24,11 @@
 |---|---|---|---|
 | **thedotmack/claude-mem** | 8.9万 | 全自动记忆捕获 + AI压缩 + 渐进披露检索 | `memory_distill.py` 记忆自动蒸馏 |
 | **moeru-ai/airi** | 4.6万 | 身份档案卡 + 四层记忆 + 情绪标签 + 遗忘曲线 | `IDENTITY-CARD.md` + `memory-guide.md` |
-| **obra/superpowers** | 26.5万 | TDD式写技能 + 技能三分法 + 强制流程 | `skill-write-guide.md` |
+| **obra/superpowers** | 26.5万 | TDD式写技能 + 技能三分法 + 强制流程 | `skill-write-guide.md`（参考非约束） |
 | **earendil-works/pi** | 8.2万 | 统一多 provider LLM API 抽象 | 提炼 provider.resolve() 思路（待落地） |
 | **deepseek-ai/DeepSeek-VL2** | 5.3k | 视觉自主方案评估（结论：API 更务实） | 维持 glm-4v-flash 主力 |
+| **EverMind-AI/EverOS** | 1.2万 | Markdown真相源 + 双轨记忆(用户/agent) + 自演化引擎 | `everos.md` 调研 + 双轨蒸馏思路 |
+| **khoj-ai/khoj** | 3.6万 | 两阶段检索(bi+cross-encoder) + 行号引用 + 增量索引 | `khoj.md` 调研 + /kx 增强路线 |
 | **citrolabs/ego-lite** | 7.7k | AI 浏览器自动化（Codex 配合） | 收藏观察 |
 | **andrewyng/aisuite** | 1.6万 | 统一 API + 桌面 AI 同事 | 收藏观察 |
 | **microsoft/TRELLIS.2** | 1.0万 | 3D 生成（需 H100） | 暂缓收藏 |
@@ -81,6 +83,8 @@
 - `airi.md` — 自托管灵魂容器
 - `pi.md` — 统一 LLM API 工具包
 - `deepseek-vl2.md` — DeepSeek 视觉模型
+- `everos.md` — 便携记忆层（Markdown真相源 + 双轨 + 自演化）
+- `khoj.md` — 自托管 AI 第二大脑（两阶段检索 + 行号引用）
 - `轻量速记.md` — aisuite / ego-lite / TRELLIS.2 / open-code-review / AI-For-Beginners / buzz
 
 ---
